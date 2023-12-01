@@ -29,4 +29,6 @@ int main() {
 	else {
 		cout << "\nNao e um ano bissexto :( ";
 	}
+
+	return 0;
 }
